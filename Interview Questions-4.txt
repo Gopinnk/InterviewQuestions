@@ -1,0 +1,16 @@
+How Compiler And Jvm Can Differentiate Constructor And Method Definitions Of Both Have Same Class Name?
+How Compiler And Jvm Can Differentiate Constructor And Method Invocations Of Both Have Same Class Name?
+Why Return Type Is Not Allowed For Constructor
+What is constructor chaining?
+Can we call sub class constructor from a super class constructor?
+Do constructors have return type? If no, what happens if you keep return type for a constructor?
+Why Constructor Name Is Same As Class Name?
+
+Answer :
+
+Every class object is created using the same new keyword , so it must have information about the class to which it must create object .
+For this reason constructor name should be same as class name.
+Can We Declare Constructor As Private?
+What are the differences between static initializers and instance initializers?
+Can you create an object without using new operator in Java?
+Can we use this() and super() in a method?

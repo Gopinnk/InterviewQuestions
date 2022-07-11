@@ -1,0 +1,46 @@
+How Does Get() Method Of Hashmap Works In Java?
+How Does Put() Method Of Hashmap Works In Java?
+How Does hashCode() and equals() Method Of Hashmap Works In Java?
+What are the datastructures followed internally in hashMap()?
+What is the difference between HashMap and HashTable ?
+What are interfaces HashMap implements?
+What is hashMap size of default load capacity?
+What Will Happen If You Try To Store A Key Which Is Already Present In Hashmap?
+How Does Hashmap Handle Collisions In Java?
+What will be the time and space complixity while searching any value from linkedList in hashMap?
+Which Data Structure Hashmap Represents?
+Which Data Structure Is Used To Implement Hashmap In Java?
+Can You Store A Duplicate Key In Hashmap? if yes then how ? if No then what will happen if we try to put same key with different value?
+Is Hashmap Thread-safe In Java?
+What Will Happen If You Use Hashmap In A Multithreaded Java Application?
+What Are Different Ways To Iterate Over Hashmap In Java?
+Can You Sort Hashmap In Java?
+In Which Order Mappings Are Stored In Hashmap?
+What Is Load Factor In Hashmap?
+How Many Entries You Can Store In Hashmap? What Is The Maximum Limit?
+What Is The Difference Between Capacity And Size Of Hashmap In Java?
+What Will Happen If Two Different Keys Of Hashmap Return Same Hashcode()?
+How HashMap internally works in java 8?
+What is the difference between HashMap and ConcurrentHashMap in java ?
+How will you measure the performance of HashMap?
+What is the difference between HashMap and TreeMap in java ?
+Difference between HashMap and Collections.synchronizedMap()?
+Difference between ConcurrentHashMap and Collections.synchronizedMap()?
+
+Question 1: write pair of negative and positive number
+
+Input:  arr[] = { 1, -3, 2, 3, 6, -1 }
+Output: -1 1 -3 3
+---------------------------------------------------------------------------------------------
+
+1.) intro.
+2.) Service A at coforge interacts with payment service  lying on third party side. How can you do CPU usage reduction , how can you manage the large number of requests  and rturn the response or error  to each user? explain the design.
+3.) Reverse of a string with minimum time complexity and space complexity.
+4.) why have you declared local variables ? why not at instance variables ?
+5.) How can we create immutable classes ?
+6.) how can we execute a piece of code after the context initilization in spring ?
+7.) when to use linkedhashmap and when to use hashmap ?
+8.) which type of auth you have worked upon in your project ? Explain them.
+9.) which class is not mutable ? what is actually immutability, Explain it ?
+10.) Are wrapper classes and string thread safe ? 
+11.) How can you control the triggering of any flow of code while doing testing ?
